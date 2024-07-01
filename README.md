@@ -5,7 +5,7 @@ Streamlit is an open-source Python framework for data scientists and AI/ML engin
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/streamlit-project.git
+git clone https://github.com/xuanyethuong/streamlit-project.git
 cd streamlit-project
 ```
 2. (Optional) Create and activate a virtual environment:
